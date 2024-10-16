@@ -1,4 +1,4 @@
-![soleil](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+![soleil](https://github-readme-stats.vercel.app/api?username=x781078959&show_icons=true&theme=transparent)
 <!--
 **x781078959/x781078959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
