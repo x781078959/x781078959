@@ -1,6 +1,6 @@
-![soleil](https://github-readme-stats.vercel.app/api?username=x781078959&show_icons=true&theme=transparent)
+![soleil](https://github-readme-stats.vercel.app/api?username=GalacticDevOps&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x781078959)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalacticDevOps)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **x781078959/x781078959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
